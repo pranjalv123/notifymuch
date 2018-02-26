@@ -21,7 +21,6 @@ setup(
     scripts=["bin/notifymuch"],
 
     install_requires=[
-        "notmuch",
         "pygobject",
     ],
 )
